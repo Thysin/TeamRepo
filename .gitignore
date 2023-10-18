@@ -1,3 +1,5 @@
 
 .metadata/*
 gitsample/.settings/*
+.ws\*metadata\
+.metadata\*
