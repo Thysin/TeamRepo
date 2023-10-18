@@ -5,5 +5,9 @@ public class C_Tests {
 	{
 		System.out.println("from C_Tests.m");
 	}
+	public void m2()
+	{
+		System.out.println("from C_Tests.m2");
+	}
 
 }
