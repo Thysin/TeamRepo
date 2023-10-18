@@ -13,7 +13,7 @@ public class Playsong_on_youtube {
 	public void add()
 	{
 		System.out.println("Akash is a chef in making noodles");
-		int c
+		int c;
 	}
 
 }
