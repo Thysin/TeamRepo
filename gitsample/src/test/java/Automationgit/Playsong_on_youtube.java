@@ -10,13 +10,11 @@ public class Playsong_on_youtube {
       WebDriver driver = new FirefoxDriver();
       driver.get("https://www.youtube.com/");
 	}
-<<<<<<< Updated upstream
 	public void add()
 	{
 		System.out.println("Akash is a chef in making noodles");
 		int c;
 	}
-=======
 	public void dog()
 	{
 		System.out.println("bhobho bho bho bhooo hooooooo");
@@ -25,7 +23,10 @@ public class Playsong_on_youtube {
 	{
 		System.out.println("meuoo meuooo meoooo");
 	}
+	public void heeru()
+	{
+		System.out.println("heeru");
+	}
 	
->>>>>>> Stashed changes
 
 }
