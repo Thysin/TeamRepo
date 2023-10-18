@@ -1,5 +1,4 @@
-
+.metadata
 .metadata/*
 gitsample/.settings/*
-.ws\*metadata\
-.metadata\*
+ws/.metadata
