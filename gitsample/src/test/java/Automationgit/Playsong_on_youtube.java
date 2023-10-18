@@ -10,5 +10,10 @@ public class Playsong_on_youtube {
       WebDriver driver = new FirefoxDriver();
       driver.get("https://www.youtube.com/");
 	}
+	public void add()
+	{
+		System.out.println("Akash is a chef in making noodles");
+		int c
+	}
 
 }
