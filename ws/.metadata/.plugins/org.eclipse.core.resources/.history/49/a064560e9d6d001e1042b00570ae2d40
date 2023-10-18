@@ -1,0 +1,9 @@
+package pkg_1;
+
+public class oggy 
+{
+	public void dog()
+	{
+		System.out.println("hi i am Pitbyll");
+	}
+}
