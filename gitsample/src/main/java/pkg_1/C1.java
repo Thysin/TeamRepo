@@ -7,5 +7,6 @@ public class C1 {
         System.out.println("hw r u ?");
         System.out.println("This is thysin i don't know how to read java");
         System.out.println("hellooo");
+        int a;
     }
 }
