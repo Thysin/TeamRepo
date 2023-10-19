@@ -1,11 +1,9 @@
 package Automationgit;
 
 import java.util.Scanner;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Playsong_on_youtube {
 
@@ -41,7 +39,5 @@ public class Playsong_on_youtube {
 	{
 		System.out.println("hhhr");
 	}
-	
-
 
 }
