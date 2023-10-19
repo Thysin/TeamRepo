@@ -1,14 +1,20 @@
 package Automationgit;
 
+import java.util.Scanner;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Playsong_on_youtube {
 
 	public static void main(String[] args)
 	{
-      WebDriver driver = new FirefoxDriver();
-      driver.get("https://www.youtube.com/");
+      WebDriver driver = new ChromeDriver();
+      driver.get("https://www.google.co.in/");
+      Scanner sc = new Scanner(System.in);
+      System.out.println("enter an address you want to search on google");
+      String address=sc.nextLine();
+      driver.findElement(By.xpath("//*[@id=\"APjFqb\"]")).sendKeys(address);
 	}
 
 	public void add()
@@ -33,7 +39,5 @@ public class Playsong_on_youtube {
 	{
 		System.out.println("hhhr");
 	}
-	
-
 
 }
